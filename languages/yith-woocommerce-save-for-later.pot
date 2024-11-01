@@ -1,0 +1,233 @@
+# Copyright (C) 2018 YITH WooCommerce Save for Later
+# This file is distributed under the same license as the YITH WooCommerce Save for Later package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Save for Later 1.0.13\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2018-12-06 12:55:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class.yith-wsfl-install.php:122
+msgctxt "page_slug"
+msgid "saveforlater"
+msgstr ""
+
+#: includes/class.yith-wsfl-install.php:123 includes/class.yith-wsfl.php:661
+#: includes/class.yith-wsfl.php:851 includes/functions.yith-wsfl.php:76
+msgid "Save for later"
+msgstr ""
+
+#: includes/class.yith-wsfl-shortcode.php:19
+#: includes/functions.yith-wsfl.php:81
+msgid "Saved for later "
+msgstr ""
+
+#: includes/class.yith-wsfl.php:392
+msgid "Product added"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:394
+msgid "Product already in Save for later"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:432
+msgid "Product deleted from Save for later"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:434
+msgid "No product"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:569
+msgid ""
+"We are sorry, but this feature is available only if cookies are enabled in "
+"your browser."
+msgstr ""
+
+#: includes/class.yith-wsfl.php:570
+msgid "Product correctly added to cart"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:654
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:655
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:765 plugin-options/general-options.php:21
+#: plugin-options/general-options.php:22 plugin-options/general-options.php:30
+msgid "Save for Later"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:820
+msgid "Products in list"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:828
+msgid "Save For Later"
+msgstr ""
+
+#: includes/class.yith-wsfl.php:892
+msgid "Item removed from Save For Later list"
+msgid_plural "Items removed from Save For Later list"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions.yith-wsfl.php:72
+msgid "Save for later list"
+msgstr ""
+
+#: includes/functions.yith-wsfl.php:73
+msgid "Show the save for later list in the page"
+msgstr ""
+
+#: includes/functions.yith-wsfl.php:80
+msgid "Title"
+msgstr ""
+
+#: init.php:41
+msgid ""
+"YITH WooCommerce Save For Later is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:51
+msgid ""
+"You can't activate the free version of YITH WooCommerce Save For Later while "
+"you are using the premium one."
+msgstr ""
+
+#: plugin-options/general-options.php:13
+msgid "General Settings"
+msgstr ""
+
+#: plugin-options/general-options.php:19
+msgid "\"Save for Later\" text"
+msgstr ""
+
+#: plugin-options/general-options.php:24
+msgid "You can set the text for your \"Save for Later\" link"
+msgstr ""
+
+#: plugin-options/general-options.php:28
+msgid "Save for Later page"
+msgstr ""
+
+#: plugin-options/general-options.php:32
+msgid ""
+"This page contains the [yith_wsfl_saveforlater] shortcode.<br> You can use "
+"this shortcode in other pages!."
+msgstr ""
+
+#: templates/admin/premium.php:241 templates/admin/premium.php:304
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Save for Later"
+"%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:244 templates/admin/premium.php:307
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:245 templates/admin/premium.php:308
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:251
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:254 templates/admin/premium.php:259
+msgid "Variable products"
+msgstr ""
+
+#: templates/admin/premium.php:262
+msgid ""
+"No product is excluded from plugin's features! With the premium version of "
+"%1$sYITH WooCommerce Save For Later%2$s your users will be free to add also "
+"the product single %1$svariations%2$s to a separated list, and the add them "
+"easily to the cart whenever they want."
+msgstr ""
+
+#: templates/admin/premium.php:272
+msgid "Add to cart"
+msgstr ""
+
+#: templates/admin/premium.php:275
+msgid ""
+"Within an e-shop, users must be always able to complete the purchase easily "
+"and in few steps. The first one is the addition of products to the cart."
+"%3$sPurchase the premium version of the plugin and all your users will be "
+"free to add products to their %1$scart%2$s from the new list, avoiding the "
+"need to come back to product pages.%3$sLess clicks for an easier purchase."
+msgstr ""
+
+#: templates/admin/premium.php:279
+msgid "Automatic payment"
+msgstr ""
+
+#: templates/admin/premium.php:286
+msgid "Click Info"
+msgstr ""
+
+#: templates/admin/premium.php:291
+msgid "Integration with YITH WooCommerce Wishlist"
+msgstr ""
+
+#: templates/admin/premium.php:294
+msgid ""
+"Wishlists are nowadays a fundamental point for online shops, as they give "
+"users the freedom to save the list of products they are interested into. "
+"Complete plugin's features with %1$sYITH WooCommerce Wishlist%2$s, and users "
+"will be free to add to their wishlists all products saved for later.%3$sA "
+"must have for this business, you can't miss it!"
+msgstr ""
+
+#: templates/saveforlater-view.php:17
+msgid "1 Product"
+msgid_plural "%s Products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/saveforlater-view.php:58
+msgid "Free!"
+msgstr ""
+
+#: templates/saveforlater-view.php:66
+msgid "Out of Stock"
+msgstr ""
+
+#: templates/saveforlater-view.php:69
+msgid "In Stock"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Save for Later"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-save-for-later/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Save for Later</strong></code> allows your "
+"customers to add products to a save-list in the cart page just like Amazon. "
+"<a href =\"https://yithemes.com\">Get more plugins for your e-commerce shop "
+"on <strong>YITH</strong></a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""
